@@ -1,0 +1,23 @@
+header {
+  height: 80px;
+  border: 2px dotted red;
+  background-color: blueviolet;
+}
+main {
+  height: 1000px;
+  border: 2px dotted green;
+}
+footer {
+  height: 200px;
+  border: 2px dotted blue;
+  background-color: darkorchid;
+}
+.s_tbdr {
+  border: 2px dotted black;
+}
+.s_left {
+  border: 2px dotted red;
+}
+.s_right {
+  border: 2px dotted pink;
+}
